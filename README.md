@@ -85,4 +85,4 @@ output/conversion_summary.csv
 
 ## 📄 License
 
-GNUv3
+GPL-3
