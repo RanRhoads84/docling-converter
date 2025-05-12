@@ -1,0 +1,4 @@
+docling_core
+docling
+tqdm
+pytorch
